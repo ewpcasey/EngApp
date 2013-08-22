@@ -1,0 +1,9 @@
+!SESSION 2013-08-21 18:34:32.573 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Owner\Documents\GitHub\EngApp\workspace -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-08-21 18:35:25.943
+!MESSAGE Failed to load properties file for project 'EngApp'
